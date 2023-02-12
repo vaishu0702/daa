@@ -63,4 +63,3 @@ cout << "Maximum number of sets that can be packed: "
 return 0;
 }
 
-// This code is contributed by poojaagarwal2.
